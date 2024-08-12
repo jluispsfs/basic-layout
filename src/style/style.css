@@ -1,0 +1,52 @@
+.finalImg {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.middleImg {
+    min-height: 70vh;
+    max-height: 90vh;
+    background-image: url("../img/4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    font-weight: 700;
+    margin-bottom: -10vh;
+}
+
+.home {
+    height: 100vh;
+    background-image: url("../img/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    font-weight: 700;
+}
+
+.verticalText {
+    width: 1px;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+.break {
+    height: 5vh;
+}
+
+.one {
+    margin-top: -5vh;
+}
+
+.two {
+    margin-top: 5vh;
+}
